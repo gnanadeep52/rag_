@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# Chroma / LangChain
+chroma/
+chroma_langchain*
+*.chroma
+*.sqlite
+index/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db

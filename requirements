@@ -1,0 +1,26 @@
+# Core LLMs
+openai
+google-ai-generativelanguage
+langchain-google-genai
+
+# LangChain ecosystem
+langchain
+langchain-openai
+langchain-community
+langchain-text-splitters
+
+# HuggingFace Embeddings (modern)
+langchain-huggingface
+huggingface_hub
+
+# Vector store
+chromadb
+
+# Evaluation
+ragas
+datasets
+
+# Web loader
+playwright
+
+
